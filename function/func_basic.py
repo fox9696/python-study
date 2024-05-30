@@ -75,4 +75,4 @@ def multi(n1,n2):
     print(f'{n1} x {n2} = {result}')
 
 abc = multi(9,6)
-print(abc)
+print(abc) 
